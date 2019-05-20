@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "concatAdd": {
+      "commandName": "Project",
+      "commandLineArgs": "10000"
+    }
+  }
+}
